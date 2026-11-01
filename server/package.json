@@ -12,7 +12,7 @@
   "dependencies": {
     "bcryptjs": "^3.0.3",
     "busboy": "^1.6.0",
-    "nodemailer": "^10.0.16",
+    "nodemailer": "^10.3.1",
     "pg": "^8.23.1",
     "qrcode-generator": "^2.0.4",
     "ws": "^8.22.0"
